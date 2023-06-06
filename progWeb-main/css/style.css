@@ -1,0 +1,42 @@
+body {
+  background-image: url("/img/fondo.jpg");
+  background-size: 100%;
+}
+
+.clase {
+  text-align: right;
+}
+
+#caja {
+  width: 300px;
+  border: 15px solid rgb(161, 211, 161);
+  padding: 20px;
+  margin: 20px;
+}
+
+.imagen {
+  height: 25rem;
+  /* width: 50rem; */
+  width: 70%;
+}
+
+p {
+  font-weight: bolder;
+}
+
+.pepo {
+  max-width: 230px;
+  max-height: 230px;
+}
+
+.entascado {
+  max-width: 230px;
+  max-height: 230px;
+}
+
+.row {
+
+  margin: 0px 10px 10px 10px;
+  padding: 10px;
+
+}

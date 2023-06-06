@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+
+  background-image: url("/img/fondo.jpg");
+  background-size: 100%;
+
+}
+
+
+.video {
+  align-content: center;
+  margin-top: 2cm;
+
+}
+
+
+.row {
+
+  margin: 0px 10px 10px 10px;
+  padding: 10px;
+
+}
